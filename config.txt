@@ -1,0 +1,6 @@
+owner=431185203969523712
+prefix=!!
+game=1/Music G.$  !Golden $hop
+stayinchannel=true
+songinstatus=false
+token=NTM2OTY3NzU2NzA1NDMxNTcz.DyeZ7w.6bBA84rli56ALDPV4cQeyVYlHaQ
